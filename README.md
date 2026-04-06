@@ -121,7 +121,7 @@ After filtering, the final subset contained approximately **8–9 key features**
 ## Project Structure
 
 ```text
-DS540-Machine-Learning-Project/
+stock-direction-ml/
 │
 ├── README.md
 ├── .gitignore
