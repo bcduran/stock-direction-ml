@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+catboost
+matplotlib
+seaborn
+shap
+ta
+tensorflow
+jupyter
+notebook
+wrds
+optuna
