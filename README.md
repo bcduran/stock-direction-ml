@@ -1,4 +1,3 @@
-# DS540 Machine Learning Project  
 ## Predicting Next-Day Stock Price Direction with Machine Learning Models
 
 This project investigates the binary classification problem of forecasting whether a stock’s closing price will move **up (1)** or **down (0)** on the next trading day.
